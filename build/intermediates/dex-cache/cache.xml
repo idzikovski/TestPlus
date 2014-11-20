@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Program Files (x86)\Android\android-studio\sdk\samples\android-20\Test+\app\build\intermediates\pre-dexed\debug\classes-cebf0f673e407f2ee44eeafc708b470f619b684c.jar"
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\samples\android-20\Test+\app\build\intermediates\exploded-aar\Test+\Model\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="af39ecb124ed89fae5c47b0aeb2ca61dbe67ff30"/>
+
+</pre-dex-items>
